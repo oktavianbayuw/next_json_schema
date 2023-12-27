@@ -1,0 +1,23 @@
+{
+  "name": "json_schema",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3005",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "ajv": "^8.12.0",
+    "body-parser": "^1.20.2",
+    "bootstrap": "^5.3.2",
+    "json-schema-generator": "^2.0.6",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.6.5",
+    "next": "14.0.4",
+    "react": "^18.2.0",
+    "react-dom": "^18",
+    "react-router-dom": "^6.21.0"
+  }
+}
